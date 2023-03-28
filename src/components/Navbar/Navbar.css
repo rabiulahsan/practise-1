@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: rgba(28, 43, 53, 1);
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10%;
+  align-items: center;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 15px;
+}
+.navbar a:hover {
+  color: orange;
+}
